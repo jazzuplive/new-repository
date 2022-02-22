@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KTImsfhdDpyK+blwgCeN9KL8/lGSDhbkR3v+KifX4xVcvozqW9IDDmJoTegUE98veNBLlp9Q2Quu/QO3iJMDrg==",
+  "dgSpecHash": "dRse8p11TmVlrpBfXpOqKKwZwMpy1MfOCuxWnvEAldYfLh9HKM9kcLKihWfsrbSpXs1xE79UV85fYLIdUp79Mg==",
   "success": true,
-  "projectFilePath": "C:\\Nui\\Projects\\Heroku\\dotnet-heroku-demo-app\\demoDotnet.csproj",
+  "projectFilePath": "C:\\Nui\\Projects\\Heroku\\sc-dotnet-heroku-demo-app\\demoDotnet.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sarachet.SCASSET\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
   ],

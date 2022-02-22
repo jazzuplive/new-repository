@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Nui\\Projects\\Heroku\\dotnet-heroku-demo-app\\demoDotnet.csproj",
+      "projectUniqueName": "C:\\Nui\\Projects\\Heroku\\sc-dotnet-heroku-demo-app\\demoDotnet.csproj",
       "projectName": "demoDotnet",
-      "projectPath": "C:\\Nui\\Projects\\Heroku\\dotnet-heroku-demo-app\\demoDotnet.csproj",
+      "projectPath": "C:\\Nui\\Projects\\Heroku\\sc-dotnet-heroku-demo-app\\demoDotnet.csproj",
       "packagesPath": "C:\\Users\\Sarachet.SCASSET\\.nuget\\packages\\",
-      "outputPath": "C:\\Nui\\Projects\\Heroku\\dotnet-heroku-demo-app\\obj\\",
+      "outputPath": "C:\\Nui\\Projects\\Heroku\\sc-dotnet-heroku-demo-app\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
